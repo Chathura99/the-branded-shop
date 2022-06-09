@@ -1,6 +1,6 @@
 /*------head-----------*/
 .head {
-  background-color: #0f3460;
+  background-color: #6f0904;
   padding: 10px 0;
   color: #fff;
 }
@@ -91,9 +91,11 @@
 header {
   height: 8vh;
   box-shadow: -1px 15px 17px -8px rgba(0, 0, 0, 0.1);
+  background-color: #6f0904;
 }
 header ul {
   line-height: 8vh;
+  
 }
 header ul li {
   margin-left: 30px;
@@ -102,9 +104,10 @@ header ul li a {
   transition: 0.5s;
   font-size: 15px;
   font-weight: 400;
+  color: #e2e8ec;
 }
 header ul li a:hover {
-  color: #ff014f;
+  color: #000000;
 }
 
 .open {
