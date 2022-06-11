@@ -10,7 +10,7 @@ const Search = ({ CartItem }) => {
 
   return (
     <>
-      <section className='search'>
+      <section className='search' >
         <div className='container c_flex'>
           <div className='logo width '>
             <img src={""} alt='' />
